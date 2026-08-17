@@ -6,7 +6,7 @@ import Work from "./components/Work";
 import Education from "./components/Education";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-import BlurBlob from "./components/BlurBlob";
+import BlurBlob from "./components/Blurblob";
 
 const App = () => {
   return (
